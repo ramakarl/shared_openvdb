@@ -12,6 +12,8 @@ This repository contains OpenVDB binaries and builds for Windows and other platf
 Binaries will be label with OpenVDB version, compiler, and platform such as:
 - OpenVDB_4.0.1_vs2015 - OpenVDB version 4.0.1 for Win64, Visual Studio 2015
 
+For an example of usage of this library, including find and link using cmake, see the repository for GVDB Voxels here: github.com/NVIDIA/gvdb-voxels
+
 SOURCE
 ----------------------
 Updated source for Windows build will be placed here shortly.
